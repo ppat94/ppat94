@@ -21,7 +21,7 @@ I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world pr
   - Adrenaline Junkie :runner:
   - Badminton (professional player!) :badminton:
   - Swimming :swimmer:
-  - Playing Drums :drums:
+  - Playing Drums :drum:
   - Singing :musical_note:
   - Movies :movie_camera:
   - Painting :sunrise_over_mountains:
