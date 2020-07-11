@@ -14,6 +14,7 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/android_evolution.gif"  height="200" />
+    <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/github_logo.gif"  height="200" />
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/python.png"  height="200" />
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/java_logo.png"  height="200" />
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/amazonws.png"  height="200" />
