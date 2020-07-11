@@ -11,18 +11,17 @@ I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world pr
 
 - :earth_americas: Visit my [Website](http://www.parthpatel.co.uk)
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/parthpatel1994)
-- :email: Shoot Me an [Email](mailto:parthpatel_1994@yahoo.co.uk)
+- :email: Shoot me an [Email](mailto:parthpatel_1994@yahoo.co.uk)
 - 🔭 I enjoy learning about space and its mysteries!
 - Hobbies: 
-  - Game Development :video_game:
-  - Playing Games
-  - Gym Freak, 
-  - Foodie
-  - Adrenaline
-  - Junkie
+  - Game Development :computer:
+  - Playing Games :video_game:
+  - Gym Freak :muscle:
+  - Foodie :pizza:
+  - Adrenaline Junkie :runner:
   - Badminton (professional player!) :badminton:
-  - Swimming
+  - Swimming :swimmer:
   - Playing Drums
-  - Singing
-  - Movies
-  - Painting
+  - Singing :musical_note:
+  - Movies :movie_camera:
+  - Painting :sunrise_over_mountains:
