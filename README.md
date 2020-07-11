@@ -33,7 +33,7 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
         <li>Playing Games :video_game:</li>
         <li>Gym Freak :muscle:</li>
         <li>Foodie :pizza:</li>
-        <li>Adrenaline Junkie :runner:</li>>
+        <li>Adrenaline Junkie :runner:</li>
         <li>Badminton (professional player!) :badminton:</li>
         <li>Swimming :swimmer:</li>
         <li>Playing Drums :drum:</li>
