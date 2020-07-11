@@ -14,7 +14,7 @@ I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world pr
 - :email: Shoot Me an [Email](mailto:parthpatel_1994@yahoo.co.uk)
 - 🔭 I enjoy learning about space and its mysteries!
 - Hobbies: 
-  - Game Development
+  - Game Development :video_game:
   - Playing Games
   - Gym Freak, 
   - Foodie
