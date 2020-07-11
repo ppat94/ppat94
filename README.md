@@ -26,6 +26,7 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
 </p>
 
 ### :basketball: Hobbies
+<h3>
   - I enjoy learning about space and its mysteries! :telescope:
   - Game Development :computer:
   - Playing Games :video_game:
@@ -38,10 +39,12 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
   - Singing :musical_note:
   - Movies :movie_camera:
   - Painting :sunrise_over_mountains:
+</h3>
 
 ### :mailbox: Contact Me
-
+<h3>
 - :earth_americas: Visit my [Website](http://www.parthpatel.co.uk)
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/parthpatel1994)
 - :email: Shoot me an [Email](mailto:parthpatel_1994@yahoo.co.uk)
+</h3>
 
