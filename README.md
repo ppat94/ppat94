@@ -46,7 +46,7 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
 ### :mailbox: Contact Me
 <h3>
     <ul>
-        <li>:earth_americas: Visit my <a href="http://www.parthpatel.co.uk" target="_blank">Website</a><li>
+        <li>:earth_americas: Visit my <a href="http://www.parthpatel.co.uk" target="_blank">Website</a></li>
         <li>:link: Connect with me on <a href="https://www.linkedin.com/in/parthpatel1994" target="_blank">LinkedIn</a></li>
         <li>:email: Shoot me an <a href="mailto:parthpatel_1994@yahoo.co.uk" target="_blank">Email</a></li>
     </ul>
