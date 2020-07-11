@@ -9,8 +9,7 @@
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/source.gif"  height="200" />
 </p>
 
-<h3>
-I am &#91;Parth&#93;(http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world problems. I'm a passionate and innovative developer from :uk: and currently living in :us:. With a professional work experience of 5+ years, I have gained knowledge in several new technologies. Below are some of the technologies I enjoy working on:</h3>
+I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world problems. I'm a passionate and innovative developer from :uk: and currently living in :us:. With a professional work experience of 5+ years, I have gained knowledge in several new technologies. Below are some of the technologies I enjoy working on:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/android_evolution.gif"  height="200" />
