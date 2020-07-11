@@ -27,25 +27,28 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
 
 ### :basketball: Hobbies
 <h3>
-  <ul>
+    <ul>
       <li>I enjoy learning about space and its mysteries! :telescope:</li>
-  - Game Development :computer:
-  - Playing Games :video_game:
-  - Gym Freak :muscle:
-  - Foodie :pizza:
-  - Adrenaline Junkie :runner:
-  - Badminton (professional player!) :badminton:
-  - Swimming :swimmer:
-  - Playing Drums :drum:
-  - Singing :musical_note:
-  - Movies :movie_camera:
-  - Painting :sunrise_over_mountains:
+        <li>Game Development :computer:</li>
+        <li>Playing Games :video_game:</li>
+        <li>Gym Freak :muscle:</li>
+        <li>Foodie :pizza:</li>
+        <li>Adrenaline Junkie :runner:</li>>
+        <li>Badminton (professional player!) :badminton:</li>
+        <li>Swimming :swimmer:</li>
+        <li>Playing Drums :drum:</li>
+        <li>Singing :musical_note:</li>
+        <li>Movies :movie_camera:</li>
+        <li>Painting :sunrise_over_mountains:</li>
+    </ul>
 </h3>
 
 ### :mailbox: Contact Me
 <h3>
-- :earth_americas: Visit my [Website](http://www.parthpatel.co.uk)
-- :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/parthpatel1994)
-- :email: Shoot me an [Email](mailto:parthpatel_1994@yahoo.co.uk)
+    <ul>
+        <li>:earth_americas: Visit my <a href="http://www.parthpatel.co.uk" target="_blank">Website</a><li>
+        <li>:link: Connect with me on <a href="https://www.linkedin.com/in/parthpatel1994" target="_blank">LinkedIn</a></li>
+        <li>:email: Shoot me an <a href="mailto:parthpatel_1994@yahoo.co.uk" target="_blank">Email</a></li>
+    </ul>
 </h3>
 
