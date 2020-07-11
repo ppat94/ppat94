@@ -27,7 +27,8 @@ I am <a href="http://www.parthpatel.co.uk" target="_blank">Parth</a> :heart:. I 
 
 ### :basketball: Hobbies
 <h3>
-  - I enjoy learning about space and its mysteries! :telescope:
+  <ul>
+      <li>I enjoy learning about space and its mysteries! :telescope:</li>
   - Game Development :computer:
   - Playing Games :video_game:
   - Gym Freak :muscle:
