@@ -7,8 +7,7 @@
 I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world problems. I'm a passionate and innovative developer from :uk: and currently living in :us:. With a professional work experience of 5+ years, I have gained knowledge in several new technologies. Below are some of the technologies I enjoy working on:
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/New-Android-Logo-evolution.gif.gif"  height="200" />
-    <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/android.gif"  height="200" /> 
+    <img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/New-Android-Logo-evolution.gif"  height="200" />
 </p>
 
 ### :basketball: Hobbies
