@@ -20,7 +20,7 @@ I am [Parth](http://www.parthpatel.co.uk) :heart:. I enjoy solving real-world pr
   - Foodie
   - Adrenaline
   - Junkie
-  - Badminton (professional player!)
+  - Badminton (professional player!) :badminton:
   - Swimming
   - Playing Drums
   - Singing
